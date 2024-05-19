@@ -21,7 +21,8 @@
         <br>
         <div class="text-center fs-6">
             <!--<a href="#">Forget password?</a>-->
-            Don't Have an Account?   <a href="register">Sign up</a>
+             <!--<a href="#">Forget password?</a>-->
+            Don't Have an Account?   <a href="register">Sign up</a> 
         </div>
     </div>
 </template>
